@@ -1,2 +1,3 @@
 # Submission Dicoding Kelas Machine Learning Beginner
-## Klasifikasi gambar dataset rock, paper, scissors
+## Klasifikasi gambar rock, paper, scissors
+Proyek ini menggunakan CNN untuk klasifikasi gambar dengan menggunakan dataset rock, paper, scissors.
